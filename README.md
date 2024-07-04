@@ -6,7 +6,7 @@ PacFlix is an Video Streaming Service that has three subscription plans:
 - Standard Plan
 - Premium Plan
 
-Each plan has the benefit and price provided in this table:
+Each plan has the benefit and price.
 
 # Features Requirement
 
